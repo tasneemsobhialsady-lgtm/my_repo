@@ -6,7 +6,7 @@
  */
  /*Name : tasneem sobhi alsady
  ID:220210489*/
-
+// this is lab3 in embedded system lab
 /* Define hardware register addresses for GPIO Port 0 and Port 2 */
 #define GPIO0DIR (*((volatile unsigned long *)0x50008000)) 
 #define GPIO0DATA (*((volatile unsigned long *)0x50003FFC)) 
